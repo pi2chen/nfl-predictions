@@ -1,1 +1,1 @@
-# ML_NFL_Project
+# Authors: Ryan Chen, Jerry He, Alexander Hoang, Jamisen Ma
